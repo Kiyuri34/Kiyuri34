@@ -2,8 +2,8 @@
 
 <h2>  👋 Kiyuri34 </h2>
 <p>
-Computer Science student <br>
-C++ Developer in progress | Problem Solving Enthusiast 💻✨
+Computer Science student📚 <br>
+C++ Developer in progress 💻| Problem Solving Enthusiast 🧠
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kiyuri34&style=flat&color=ffb6c1)
