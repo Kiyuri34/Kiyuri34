@@ -35,8 +35,8 @@ C++ Developer in progress | Problem Solving Enthusiast 💻✨
 
 ## 🏁 Problem Solving
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-Kiyuri34-6a9ae2?style=flat&logo=codeforces)](https://codeforces.com/profile/Kiyuri34)
-[![Codeforces Streak](https://streak-stats.demolab.com/?user=Kiyuri34&theme=dark&hide_title=true)](https://codeforces.com/profile/Kiyuri34)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Kiyuri34555__-6a9ae2?style=flat&logo=codeforces)](https://codeforces.com/profile/Kiyuri34555__)
+[![Codeforces Streak](https://streak-stats.demolab.com/?user=Kiyuri34555__&theme=dark&hide_title=true)](https://codeforces.com/profile/Kiyuri34555__)
 
 - Solving problems using **C++**
 - Focusing on **Algorithms & Data Structures**
