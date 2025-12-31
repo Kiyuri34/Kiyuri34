@@ -3,7 +3,7 @@
 <!-- Banner GIF -->
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/>
 
-<h2> Hello Coders, I'm Kiyuri34 </h2>
+<h2> Hi 👋, I'm Kiyuri34</h2>
 <p>
 Computer Science student <br>
 C++ Developer in progress | Problem Solving Enthusiast 💻✨
@@ -46,12 +46,11 @@ C++ Developer in progress | Problem Solving Enthusiast 💻✨
 
 ---
 
-## 🐱 Cute GIFs Section
+## 📊 GitHub Stats
 <div align="center">
 
-<img src="https://c.tenor.com/W8B9pY18z0IAAAAC/coding-cat.gif" width="120" />
-<img src="https://c.tenor.com/vXJkNz5p6P8AAAAC/programmer.gif" width="120" />
-<img src="https://c.tenor.com/OOiPOkm-8xQAAAAC/coffee-coding.gif" width="120" />
+<img src="https://github-readme-stats.vercel.app/api?username=Kiyuri34555__&show_icons=true&theme=tokyonight" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiyuri34555__&layout=compact&theme=tokyonight" width="48%">
 
 </div>
 
