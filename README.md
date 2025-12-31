@@ -1,12 +1,12 @@
 <div align="center">
 
-<h2> 👋 Kiyuri34 </h2>
+<h2>  👋 Kiyuri34 </h2>
 <p>
 Computer Science student <br>
 C++ Developer in progress | Problem Solving Enthusiast 💻✨
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Kiyuri34555__&style=flat&color=ffb6c1)
+![Profile Views](https://komarev.com/ghpvc/?username=Kiyuri34&style=flat&color=ffb6c1)
 
 </div>
 
@@ -35,8 +35,8 @@ C++ Developer in progress | Problem Solving Enthusiast 💻✨
 
 ## 🏁 Problem Solving
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-Kiyuri34555__-6a9ae2?style=flat&logo=codeforces)](https://codeforces.com/profile/Kiyuri34555__)
-[![Codeforces Streak](https://streak-stats.demolab.com/?user=Kiyuri34555__&theme=dark&hide_title=true)](https://codeforces.com/profile/Kiyuri34555__)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Kiyuri34-6a9ae2?style=flat&logo=codeforces)](https://codeforces.com/profile/Kiyuri34)
+[![Codeforces Streak](https://streak-stats.demolab.com/?user=Kiyuri34&theme=dark&hide_title=true)](https://codeforces.com/profile/Kiyuri34)
 
 - Solving problems using **C++**
 - Focusing on **Algorithms & Data Structures**
@@ -60,5 +60,3 @@ public:
     string focus = "Problem Solving & Algorithms";
     string goal = "Build strong CS foundations ✨";
 };
-
-
