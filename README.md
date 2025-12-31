@@ -23,15 +23,25 @@ C++ Developer in progress | Problem Solving Enthusiast
 
 ---
 
-## 🛠️ Tech Stack
+## 🧸 Tech Stack
 
-### Programming Language
+### 💻 Programming Language
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
-### Tools & Environment
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
+### 🛠 Tools
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+## 🏁 Problem Solving
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-Kiyuri34555__-blue?style=flat&logo=codeforces)](https://codeforces.com/profile/Kiyuri34555__)
+[![Codeforces Streak](https://streak-stats.demolab.com/?user=Kiyuri34555__&theme=dark&hide_title=true)](https://codeforces.com/profile/Kiyuri34555__)
+
+- Solving problems using **C++**
+- Focusing on **Algorithms & Data Structures**
 
 ---
 
