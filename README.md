@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2> Hi 👋, I'm Kiyuri34</h2>
+<h2> 👋 Kiyuri34 </h2>
 <p>
 Computer Science student <br>
 C++ Developer in progress | Problem Solving Enthusiast 💻✨
