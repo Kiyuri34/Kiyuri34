@@ -62,3 +62,4 @@ public:
     string focus = "Problem Solving & Algorithms";
     string goal = "Build strong CS foundations";
 };
+
