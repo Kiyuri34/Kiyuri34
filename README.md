@@ -54,7 +54,7 @@ C++ Developer in progress | Problem Solving Enthusiast 💻✨
 #include <iostream>
 using namespace std;
 
-class SaraHassan {
+class Kiyuri34 {
 public:
     string language = "C++";
     string focus = "Problem Solving & Algorithms";
