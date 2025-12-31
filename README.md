@@ -1,14 +1,15 @@
 <div align="center">
 
+<!-- Banner GIF -->
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/>
 
-<h2>Hi 👋, I'm Kiyuri34</h2>
+<h2> Hello Coders, I'm Kiyuri34 </h2>
 <p>
 Computer Science student <br>
-C++ Developer in progress | Problem Solving Enthusiast
+C++ Developer in progress | Problem Solving Enthusiast 💻✨
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Kiyuri34&style=flat&color=orange)
+![Profile Views](https://komarev.com/ghpvc/?username=Kiyuri34555__&style=flat&color=ffb6c1)
 
 </div>
 
@@ -30,18 +31,29 @@ C++ Developer in progress | Problem Solving Enthusiast
 
 ### 🛠 Tools
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F2A65C?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-CBA135?style=flat&logo=linux&logoColor=black)
 
 ---
 
 ## 🏁 Problem Solving
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-Kiyuri34555__-blue?style=flat&logo=codeforces)](https://codeforces.com/profile/Kiyuri34555__)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Kiyuri34555__-6a9ae2?style=flat&logo=codeforces)](https://codeforces.com/profile/Kiyuri34555__)
 [![Codeforces Streak](https://streak-stats.demolab.com/?user=Kiyuri34555__&theme=dark&hide_title=true)](https://codeforces.com/profile/Kiyuri34555__)
 
 - Solving problems using **C++**
 - Focusing on **Algorithms & Data Structures**
+
+---
+
+## 🐱 Cute GIFs Section
+<div align="center">
+
+<img src="https://c.tenor.com/W8B9pY18z0IAAAAC/coding-cat.gif" width="120" />
+<img src="https://c.tenor.com/vXJkNz5p6P8AAAAC/programmer.gif" width="120" />
+<img src="https://c.tenor.com/OOiPOkm-8xQAAAAC/coffee-coding.gif" width="120" />
+
+</div>
 
 ---
 
@@ -56,10 +68,11 @@ C++ Developer in progress | Problem Solving Enthusiast
 #include <iostream>
 using namespace std;
 
-class Kiyuri34 {
+class SaraHassan {
 public:
     string language = "C++";
     string focus = "Problem Solving & Algorithms";
-    string goal = "Build strong CS foundations";
+    string goal = "Build strong CS foundations ✨";
 };
+
 
