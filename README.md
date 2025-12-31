@@ -58,5 +58,5 @@ class Kiyuri34 {
 public:
     string language = "C++";
     string focus = "Problem Solving & Algorithms";
-    string goal = "Build strong CS foundations ✨";
+    string goal = "Build strong CS foundations ";
 };
